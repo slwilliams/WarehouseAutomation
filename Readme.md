@@ -11,4 +11,4 @@ The frontend contains an implementation of Dijkstra's algorithm to find the shor
 
 The robot contains an array of IR sensors and a PID algorithm implementation enables the robot to follow black lines painted onto the warehouse floor.
 
-The project also included a 20,000 word write up.
+The project also included a 20,000 word write up available here: [Write up](http://files.scottw.co.uk/warehousewriteup.pdf)
